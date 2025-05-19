@@ -58,45 +58,6 @@ A modern web application for managing and selling books online. Built with Larav
 - Node.js & NPM
 - MySQL
 
-## 🔧 Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/Ismail158818/Book-Store.git
-```
-
-2. Install PHP dependencies
-```bash
-composer install
-```
-
-3. Install NPM dependencies
-```bash
-npm install
-```
-
-4. Copy .env file
-```bash
-cp .env.example .env
-```
-
-5. Generate application key
-```bash
-php artisan key:generate
-```
-
-6. Configure your database in .env file
-
-7. Run migrations
-```bash
-php artisan migrate
-```
-
-8. Start the development server
-```bash
-php artisan serve
-```
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
